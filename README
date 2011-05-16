@@ -1,0 +1,9 @@
+A monitoring and notification class for immediately communicating website outages to a webmaster, or webmaster(s).
+
+Basically, the class simulates a web request to a specified URL and either SMSs, calls, or e-mails any number of website administrators if an error occurs (according to http header status code returned).
+
+Notes:
+- To make the most of this application, create a CRON job that automatically  runs the script every so often!
+- It's critical to run this application on a separate server from the website(s) you're testing! 
+
+Author: Aaron D. Caryl - http://www.aaroncaryl.com/

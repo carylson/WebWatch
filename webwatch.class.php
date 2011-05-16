@@ -16,7 +16,7 @@
 	 * It's critical to run this application on a separate server from the
 	 * website(s) you're testing!
 	 * 
-     * @author Aaron D. Caryl - http://www.aaroncaryl.com/
+	 * @author Aaron D. Caryl - http://www.aaroncaryl.com/
 	 */
 	class webwatch {
 	
