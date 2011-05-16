@@ -1,3 +1,4 @@
+
 A monitoring and notification class for immediately communicating website outages to a webmaster, or webmaster(s).
 
 Basically, the class simulates a web request to a specified URL and either SMSs, calls, or e-mails any number of website administrators if an error occurs (according to http header status code returned).
