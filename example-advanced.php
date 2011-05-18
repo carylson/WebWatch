@@ -7,8 +7,8 @@
 	
 	$watcher = new webwatch();
 	
-	$watcher->setTwilioAccountSid('ACd335ad70a6f756a2dd93972b6cb00893z');
-	$watcher->setTwilioAuthToken('86d2aa6b10341ebb49fcd7bac983909az');
+	$watcher->setTwilioAccountSid('ACd335ad70a6f756a2dd93972b6cb008zZz');
+	$watcher->setTwilioAuthToken('86d2aa6b10341ebb49fcd7bac98390zZz');
 	
 	$web_clients = array(
 		'Google' => array(
